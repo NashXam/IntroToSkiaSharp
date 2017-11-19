@@ -22,21 +22,6 @@ A few of our exercises will build from existing sample apps and workbooks availa
 
 ## Lessons
 
-### Introduction
-
-| Training Tool | Resource | _Requirements_ |
-|:--------|:---------|----------------|
-| workbook | [Console workbook](https://developer.xamarin.com/workbooks/graphics/skiasharp/introduction/introduction.workbook) | _No iOS or Android setup required. Works on Mac or Windows._ |
-
-A brief introduction to the basic building blocks of SkiaSharp.
-* drawing shapes
-* drawing paths
-* drawing text
-
-### SkiaSharp and Xamarin.Forms
-
-| Training Tool | Resource | Content | _Requirements_ |
-|:--------|:---------|:--------|----------------|
-| sample app | [SkiaSharp and Xamarin.Forms](https://developer.xamarin.com/samples/xamarin-forms/SkiaSharpForms/SkiaSharpFormsDemos/) | Demonstrates the use of SkiaSharp in a Xamarin.Forms application. | _Mac or PC with Visual Studio, Xamarin tools, and device simulators (iOS) or emulators (Android)._ |
-| workbook | iOS workbook | Based on the sample app Basics > Pulsating Ellipse example page. | _A connected Mac with Xamarin tools and device simulators installed._ |
+1. [Introduction](1_Introduction/README.md)
+2. [SkiaSharp and Xamarin.Forms](2_SkiaSharpAndXamarin.Forms/README.md)
 
